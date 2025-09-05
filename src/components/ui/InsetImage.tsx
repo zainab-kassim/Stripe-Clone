@@ -11,7 +11,7 @@ export default function InsetImage() {
                     playsInline
                     className="absolute inset-0 w-full h-full object-cover -z-10"
                 >
-                    <source src="/gradient.mp4" type="video/mp4" />
+                    <source src='https://oqk3pkp15w.ufs.sh/f/H3vgRA928TvFv3Aaoobspij1qVghd59LQw6amzvGHPUbMfkC' type="video/mp4" />
                 </video>
 
                 {/* Gradient overlay */}

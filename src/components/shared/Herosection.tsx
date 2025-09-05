@@ -16,7 +16,7 @@ function Herosection() {
           playsInline
           className="absolute inset-0 w-full h-full object-cover -z-10 [clip-path:polygon(0_0,100%_0,100%_60%,0_100%)]"
         >
-          <source src="/bubbleVideo.mp4" type="video/mp4" />
+          <source src="https://oqk3pkp15w.ufs.sh/f/H3vgRA928TvFEsmbh2zKjRTdq6gk94GSLy0Q7A8arOzPiXFb" type="video/mp4" />
         </video>
  <Navbar/>
         
