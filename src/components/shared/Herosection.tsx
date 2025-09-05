@@ -36,7 +36,7 @@ function Herosection() {
             />
           </section>
           <h1 className="lg:text-6xl  tracking-wide text-4xl md:text-5xl text-slate-900/80 font-bold">
-            Stop Losing Billable Time You've Already Earned
+            Stop Losing Billable Time You&aposve Already Earned
           </h1>
           <p className='text-md mt-6  text-slate-900'>
             Sque is the Legal Revenue & Operating System — it captures work automatically and runs billing as your system of record.
